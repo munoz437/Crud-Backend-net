@@ -5787,11 +5787,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jorge\\Desktop\\OCTAVO SEMESTRE\\DESARROLLO WEB\\net\\api_empresa\\api_empresa.csproj",
+      "projectUniqueName": "C:\\Users\\jorge\\Desktop\\OCTAVO SEMESTRE\\DESARROLLO WEB\\net\\Crud-Backend-net\\api_empresa\\api_empresa.csproj",
       "projectName": "api_empresa",
-      "projectPath": "C:\\Users\\jorge\\Desktop\\OCTAVO SEMESTRE\\DESARROLLO WEB\\net\\api_empresa\\api_empresa.csproj",
+      "projectPath": "C:\\Users\\jorge\\Desktop\\OCTAVO SEMESTRE\\DESARROLLO WEB\\net\\Crud-Backend-net\\api_empresa\\api_empresa.csproj",
       "packagesPath": "C:\\Users\\jorge\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jorge\\Desktop\\OCTAVO SEMESTRE\\DESARROLLO WEB\\net\\api_empresa\\obj\\",
+      "outputPath": "C:\\Users\\jorge\\Desktop\\OCTAVO SEMESTRE\\DESARROLLO WEB\\net\\Crud-Backend-net\\api_empresa\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

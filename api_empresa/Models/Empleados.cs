@@ -10,6 +10,6 @@ namespace api_empresa.Models{
         public string telefono { get; set; }
         public string fecha_nacimiento { get; set; }
         public int id_puesto { get; set; }
-        public string puesto { get; set; }
+        public Puestos puesto { get; set; }
     }
 }

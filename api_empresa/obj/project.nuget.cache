@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UiYytH188fZKs4nhUa6Cee/eRPpgA2Tpi8V4U4oMBrNsrLamnubZDCeWyxLUzaqYnKsAktcJ0gLjZ5HzTdVzFQ==",
+  "dgSpecHash": "HODiNzrzj5dSEZ71mjGyu4tEwEpvQmFDBKiU4XACOFzEQry8ui2yb0YzXneZDOOX14ds67aD+fuBivSmB9OSEw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jorge\\Desktop\\OCTAVO SEMESTRE\\DESARROLLO WEB\\net\\api_empresa\\api_empresa.csproj",
+  "projectFilePath": "C:\\Users\\jorge\\Desktop\\OCTAVO SEMESTRE\\DESARROLLO WEB\\net\\Crud-Backend-net\\api_empresa\\api_empresa.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jorge\\.nuget\\packages\\google.protobuf\\3.5.1\\google.protobuf.3.5.1.nupkg.sha512",
     "C:\\Users\\jorge\\.nuget\\packages\\microsoft.entityframeworkcore\\2.1.2\\microsoft.entityframeworkcore.2.1.2.nupkg.sha512",

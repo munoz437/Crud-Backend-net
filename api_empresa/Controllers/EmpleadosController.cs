@@ -22,7 +22,7 @@ namespace api_empresa.Controllers{
                         join s in dbConexion.Puestos
                         on a.id_puesto equals s.id_puesto
                         select new Empleados{ id_empleado=a.id_empleado, codigo=a.codigo,nombres= a.nombres, apellidos = a.apellidos,
-                            direccion = a.direccion, telefono = a.telefono, fecha_nacimiento = a.fecha_nacimiento,puesto= s.puesto };
+                            direccion = a.direccion, telefono = a.telefono, fecha_nacimiento = a.fecha_nacimiento,id_puesto=a.id_puesto,puesto= s };
             return Ok(query.ToList());
         }
 
